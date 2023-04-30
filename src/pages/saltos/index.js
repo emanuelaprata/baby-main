@@ -45,7 +45,7 @@ export default function Saltos() {
 
                     <View style={styles.flexRow}>
 
-                        {saltos.map((item, i) => {
+                        {saltos.map((item) => {
                             
                             return (
                                 <TouchableOpacity style={styles.card} onPress={() => {

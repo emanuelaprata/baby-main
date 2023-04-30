@@ -22,14 +22,13 @@ export default StyleSheet.create({
     },
 
     containerOptions: {
-        
         height: '100%',
         width: '100%',
     },
 
     option: {
         backgroundColor: '#FCF5EE',
-        height: 92,
+        height: 88,
         borderRadius: 10,
         marginTop: 30,
         marginHorizontal: '2%',

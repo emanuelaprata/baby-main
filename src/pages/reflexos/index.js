@@ -49,7 +49,7 @@ export default function Reflexos() {
 
 
         <View style={{ alignItems: 'center' }}>
-          {items.map((item, i) => {
+          {items.map((item) => {
             return (
               <View style={styles.option}>
                 <Image

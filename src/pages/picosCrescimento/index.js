@@ -64,7 +64,7 @@ export default function PicoCrescimento() {
 
 
                                         <View >
-                                            <Image source={require('./assets/cresc.png')}
+                                            <Image source={require('./assets/cresc1.png')}
                                                 style={{
                                                     width: 50, height: 50
                                                 }} />
@@ -111,7 +111,7 @@ export default function PicoCrescimento() {
                             }}>
                             <View>
 
-                                <Image source={require('./assets/cresc.png')}
+                                <Image source={require('./assets/cresc1.png')}
                                     style={{
                                         width: 50, height: 50
                                     }} />

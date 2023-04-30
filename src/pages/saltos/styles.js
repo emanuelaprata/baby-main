@@ -44,7 +44,8 @@ export default StyleSheet.create(
             fontSize: 15,
             color: '#573205',
             width: '100%',
-            textAlign: 'center'
+            textAlign: 'center',
+            paddingHorizontal: 5
         },
 
         card: {

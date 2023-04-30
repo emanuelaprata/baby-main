@@ -28,10 +28,7 @@ export default function Menu() {
                 style={{
                     width: 300, height: 150, marginTop: 30
                 }} />
-
-            {/* <Text
-            style={{fontSize:50, marginTop: 20}}>Meu bêbe</Text> */}
-
+                
             <ScrollView
                 style={styles.containerOptions}>
                 <View style={{ alignItems: 'center', flexWrap: 'wrap', flexDirection: 'row', justifyContent: 'center' }}>
